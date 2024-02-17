@@ -1,1 +1,2 @@
 # ComuterVision
+ЭЩКЕРЕ
